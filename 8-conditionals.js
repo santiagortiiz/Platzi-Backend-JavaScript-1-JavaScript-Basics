@@ -62,7 +62,7 @@ if(numero === 1) {
 condition ? true : false; 
 
 var numero = 1; 
-var resultado = numero === 1 ? 'Sí son un 1' : 'No soy un 1';
+var resultado = numero === 1 ? 'Sí soy un 1' : 'No soy un 1';
 
 console.log(resultado);
 

@@ -5,7 +5,7 @@
 // el nombre reservado de function y parametros que recibira esa function 
 
 function miFuncion() { // function declaration Declarativas expresión 
-    return 3; 
+    return console.log(3)
 }
 
 miFuncion(); // mandamos llamar la funcion
